@@ -1,0 +1,9 @@
+@import "styles/replace-initial-styles.css";
+@import "styles/varaibles.css";
+@import "styles/header.css";
+@import "styles/main.css";
+@import "styles/footer.css";
+@import "modules/slider/chief-slider.css";
+@import "styles/slider-conf.css";
+@import "modules/convertSelect/css/select2.min.css";
+@import "modules/convertSelect/css/convertSelect.css";
